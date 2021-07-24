@@ -5,7 +5,7 @@ wanna look like a power user follow this
 
 2. edit ~/.bashrc ``sudo nano ~/.bashrc``
 
-3. do this add the bottom like the picture picture supplied ``eval “$(starship init bash)”``
+3. do this add the bottom like the in the picture supplied ``eval “$(starship init bash)”``
 
 4. close and open terminal again
 
