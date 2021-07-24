@@ -7,5 +7,6 @@ wanna look like a power user follow this
 
 3. do this add the bottom like the picture picture supplied ``eval “$(starship ini bash)”``
 
+4. close and open terminal again
 
 [reference:](https://www.youtube.com/watch?v=5b-xQkRWHjQ)
