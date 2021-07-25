@@ -4,7 +4,7 @@
 1. Install starship: ``sudo snap install starship`` 
 2. edit ~/.bashrc ``sudo nano ~/.bashrc``
 
-3. do this add the bottom like the in the picture supplied ``eval “$(starship init bash)”``
+3. do this add the bottom like in the picture supplied ``eval “$(starship init bash)”``
 
 ![open with other application](/bashrc.png)
 
