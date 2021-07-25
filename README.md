@@ -13,3 +13,5 @@ wanna look like a power user follow this
 [starship github](https://github.com/starship/starship)
 
 [reference video](https://www.youtube.com/watch?v=5b-xQkRWHjQ)
+
+![Open with other application](/backrc.png)
