@@ -14,4 +14,4 @@ wanna look like a power user follow this
 
 [reference video](https://www.youtube.com/watch?v=5b-xQkRWHjQ)
 
-![Open with other application](/backrc.png)
+[Open with other application](/backrc.png)
