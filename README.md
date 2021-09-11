@@ -1,4 +1,4 @@
-# Become a Chad user
+# Become a Chad user (ubuntu and Ubuntu-based)
 #wanna look like a power user follow this 
 
 1. Install starship: ``sudo snap install starship`` 
